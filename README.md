@@ -17,7 +17,9 @@ A ideia desse repositório é de reunir dicas e materiais para os interessados e
 
 ## Livros
 
-- ![capa livro competitive programming 3](https://cache.skoob.com.br/local/images//xWcQ9ramX0uHFOsZAYgdGUK45tg=/300x0/center/top/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/283529/COMPETITIVE_PROGRAMMING_3_1405609108B.jpg "Competitive Programming 3")
+- Competitive Programming 3:
+<div style="text-align:center"><img src="https://github.com/maratonadeprogramacao/maratonadeprogramacao/blob/master/img/cp3.jpg" /></div>
+
 
 ## Algoritmos e Estruturas de Dados
 
