@@ -40,6 +40,8 @@ A ideia desse repositório é de reunir dicas e materiais para os interessados e
 
 ## Sites para Praticar
 
+- [URI](https://www.urionlinejudge.com.br/)
+    - [Video sobre o URI](https://www.youtube.com/watch?v=ZQfohP2b6CQ)
 - [Leetcode](http://leetcode.com/)
 - [Codewars](https://www.codewars.com/)
 - [Hacker Hank](https://www.hackerrank.com/)
