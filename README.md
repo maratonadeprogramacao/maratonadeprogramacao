@@ -1,6 +1,8 @@
 # Introdução
 
-A ideia desse repositório é de reunir dicas e materiais para os interessados em participar de maratonas de programação.
+A ideia desse repositório é de reunir dicas e materiais para os interessados em participar de maratonas de programação. Realizaremos, periodicamente, um torneio no [URI](www.urionlinejudge.com.br).
+
+Para os alunos da Unicesumar, criamos um grupo para a organização e discussão sobre os torneios.
 
 ## Material Introdutório sobre Maratonas de Programação
 
@@ -40,14 +42,15 @@ A ideia desse repositório é de reunir dicas e materiais para os interessados e
 
 ## Sites para Praticar
 
-- [URI](https://www.urionlinejudge.com.br/)
-    - [Video sobre o URI](https://www.youtube.com/watch?v=ZQfohP2b6CQ)
+
 - [Leetcode](http://leetcode.com/)
 - [Codewars](https://www.codewars.com/)
 - [Hacker Hank](https://www.hackerrank.com/)
 
 # Maratonas On Line
 
-# Maratonas Presenciais
+- [URI](https://www.urionlinejudge.com.br/)
+    - [Video sobre o URI](https://www.youtube.com/watch?v=ZQfohP2b6CQ)
+    - [Como submeter respostas no URI](https://www.youtube.com/watch?v=NG7suADk4h4)
 
 
